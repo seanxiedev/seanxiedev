@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am Sincere Xie.
+I am Sean Xie.
+I have over 10 years of experience in web development. I previously worked for a well-known Chinese e-commerce company, where I developed web applications for both mobile and desktop. Currently, I am focusing my technical efforts primarily on AI.
 
-- 🔭 I’m currently working on an e-commerce company
-- 🌱 I’m currently learning web and Rust
-- 💬 Ask me about web
-- 📫 How to reach me: [sincere_xie](https://twitter.com/sincere_xie_dev)
+- 🌱 I’m currently learning AI
+- 💬 Ask me about web/AI
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my spare time, I want to be a writer
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sincerexie&theme=chartreuse-dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=seanxiedev&theme=chartreuse-dark&show_icons=true" />
